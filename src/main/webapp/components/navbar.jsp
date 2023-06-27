@@ -21,8 +21,6 @@
 					<li class="nav-item"><a class="nav-link active"
 						aria-current="page" href="doctor_login.jsp">DOCTOR</a></li>
 					<li class="nav-item"><a class="nav-link active"
-						aria-current="page" href="user_appointment.jsp">APPOINTMENT</a></li>
-					<li class="nav-item"><a class="nav-link active"
 						aria-current="page" href="user_login.jsp">USER</a></li>
 
 				</c:if>
